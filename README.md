@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thimira Nimesh</h1>
-<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimira-nimesh&label=Profile%20views&color=0e75b6&style=flat" alt="thimira-nimesh" /> </p>
 
@@ -8,7 +8,7 @@
 ### About Me
 ---
 
-- 🔭 I’m currently working on **Supply Chain System in ColorPlus (PVT)Ltd.**
+- 🔭 I’m currently working as a freelance Software Developer**
 
 - 🌱 I’m currently learning **Advanced Software Engineering,Big Data Analytics**
 
