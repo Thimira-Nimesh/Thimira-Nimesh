@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced Software Engineering,Big Data Analytics**
 
-- 💬 Ask me about **react,java**
+- 💬 Ask me about **MERN Stack , SERN Stack, Springboot Angular**
 
 - 📫 How to reach me **thimira079@gmail.com**
 
