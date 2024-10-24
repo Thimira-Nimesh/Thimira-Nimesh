@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,java**
 
-- 📫 How to reach me **tnimesh12345@gmail.com**
+- 📫 How to reach me **thimira079@gmail.com**
 
 - ⚡ Fun fact **Call me as Blake**
 
