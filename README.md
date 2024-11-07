@@ -43,11 +43,6 @@
 
 ![Thimira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thimira-nimesh&show_icons=true&theme=dark&count_private=true)
 
-### Contribution Radar Chart
----
 
-<!-- Radar chart for GitHub contributions -->
-
-![Thimira's GitHub Contributions](https://ghchart.rshah.org/username/thimira-nimesh)
 
 
